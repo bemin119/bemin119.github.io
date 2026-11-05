@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
+<title>베팅의민족 사이트 평가 기준</title>
+<subtitle>베팅의민족 운영진이 게임사이트 평가 점수를 어떤 항목으로 매기고, 어떤 요건으로 목록에 올리며, 얼마나 자주 다시 계산하는지 공개한 기준서입니다.</subtitle>
+<link rel="self" href="https://bemin119.github.io/feed.xml"/>
+<link rel="alternate" href="https://bemin119.github.io/"/>
+<id>https://bemin119.github.io/</id>
+<updated>2026-11-05T12:00:00+09:00</updated>
+<author><name>베팅의민족 운영진</name></author>
+<entry><title>베팅의민족 사이트 평가 기준</title><link rel="alternate" href="https://bemin119.github.io/"/><id>https://bemin119.github.io/</id><updated>2026-11-05T12:00:00+09:00</updated><summary>베팅의민족 사이트 평가가 어떤 항목과 가중 범위로 매겨지고, 게임사이트 목록은 무엇을 확인한 뒤 오르며, 점수는 얼마나 자주 갱신되는지 운영진이 직접 적은 전체 틀입니다.</summary></entry>
+<entry><title>베팅의민족 평가 점수 구성</title><link rel="alternate" href="https://bemin119.github.io/score/"/><id>https://bemin119.github.io/score/</id><updated>2026-11-05T12:00:00+09:00</updated><summary>베팅의민족 평가 점수가 입출금 처리·규정 투명성·응대·사고 이력·회원 후기 다섯 축에서 각각 어떻게 매겨지고 어떤 사유로 깎이며 무엇을 계기로 다시 계산되는지 적었습니다.</summary></entry>
+<entry><title>베팅의민족 게임사이트 등재 기준</title><link rel="alternate" href="https://bemin119.github.io/listing/"/><id>https://bemin119.github.io/listing/</id><updated>2026-11-05T12:00:00+09:00</updated><summary>베팅의민족 게임사이트 목록에 업체가 오르려면 무엇을 충족해야 하고 어떤 경우 오르지 못하며, 보증업체와 일반 등재는 무엇이 다르고 등재는 언제 해제되는지 운영진 기준으로 적었습니다.</summary></entry>
+<entry><title>베팅의민족 평가 갱신 주기</title><link rel="alternate" href="https://bemin119.github.io/update/"/><id>https://bemin119.github.io/update/</id><updated>2026-11-05T12:00:00+09:00</updated><summary>베팅의민족 평가 점수가 정기 회차와 수시 갱신으로 언제 바뀌는지, 두 갱신이 겹칠 때 순서는 어떻게 되는지, 회원 이의는 어느 시점에 반영되고 과거 회차는 어디까지 남는지 적었습니다.</summary></entry>
+<entry><title>베팅의민족 평가 이용 안내</title><link rel="alternate" href="https://bemin119.github.io/notice/"/><id>https://bemin119.github.io/notice/</id><updated>2026-11-05T12:00:00+09:00</updated><summary>베팅의민족 평가 점수를 어디까지 참고 자료로 읽어야 하는지, 운영진이 보장하지 않는 것은 무엇인지, 19세 이상 이용과 상담 안내, 점수와 등재에 대한 수정 요청은 어떤 형식으로 내는지 적었습니다.</summary></entry>
+</feed>
